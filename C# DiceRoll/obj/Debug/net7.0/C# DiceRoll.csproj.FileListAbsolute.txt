@@ -1,0 +1,15 @@
+C:\Users\d.xia2\Downloads\C# DiceRoll\bin\Debug\net7.0\C# DiceRoll.exe
+C:\Users\d.xia2\Downloads\C# DiceRoll\bin\Debug\net7.0\C# DiceRoll.deps.json
+C:\Users\d.xia2\Downloads\C# DiceRoll\bin\Debug\net7.0\C# DiceRoll.runtimeconfig.json
+C:\Users\d.xia2\Downloads\C# DiceRoll\bin\Debug\net7.0\C# DiceRoll.dll
+C:\Users\d.xia2\Downloads\C# DiceRoll\bin\Debug\net7.0\C# DiceRoll.pdb
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\C# DiceRoll.csproj.AssemblyReference.cache
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\C# DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\C# DiceRoll.AssemblyInfoInputs.cache
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\C# DiceRoll.AssemblyInfo.cs
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\C# DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\C# DiceRoll.dll
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\refint\C# DiceRoll.dll
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\C# DiceRoll.pdb
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\C# DiceRoll.genruntimeconfig.cache
+C:\Users\d.xia2\Downloads\C# DiceRoll\obj\Debug\net7.0\ref\C# DiceRoll.dll
